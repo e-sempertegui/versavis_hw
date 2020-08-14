@@ -15,7 +15,7 @@
           "help": {
             "online": "http://www.asl.ethz.ch"
           },
-          "url": "https://github.com/e-sempertegui/versavis_hw/blob/old_firmware/VersaVIS.tar.bz2",
+          "url": "https://github.com/e-sempertegui/versavis_hw/raw/old_firmware/VersaVIS.tar.bz2",
           "archiveFileName": "VersaVIS.tar.bz2",
 		  "checksum": "SHA-256:3DFDDA47A58ADF563A96EF82E1CBB9E49B300CF38AF3D1339D32DD780327F089",
           "size": "2879283",
